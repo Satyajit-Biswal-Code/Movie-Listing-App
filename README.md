@@ -15,6 +15,7 @@ The main goal of this app is to enhance the movie-watching experience by helping
 This project is ideal for learning and demonstrating concepts like frontend development, API integration, and user interaction design.
 
 **TOOL AND TECHNOLOGIES**
+
 HTML
 
 CSS
@@ -22,6 +23,7 @@ CSS
 JS
 
 **FEATURES:-**
+
 Search
 
 Rating The Movie
